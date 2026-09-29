@@ -3,13 +3,9 @@
 ## 🌊 FloodWatch Malaysia
 
 This is app for Malaysian to stay alert with flood in Malaysia build with IBM Bob.
-#### Demo link: https://www.loom.com/share/13243d41fb8e43dbb87c0fa44019768e
-<br>
+#### Demo link:
 <div align="center">
-  <img src="images/1.png" alt="App Screenshot" width=80% height=80%>
-</div>
-<div align="center">
-  <img src="images/2.png" alt="App Screenshot" width=80% height=80%>
+https://www.loom.com/share/13243d41fb8e43dbb87c0fa44019768e
 </div>
 
 Not yet finished ⬇
